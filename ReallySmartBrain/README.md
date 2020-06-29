@@ -1,2 +1,2 @@
-Playing around with [ImageAI] (https://github.com/OlafenwaMoses/ImageAI)
-Learning with course "Complete Python Developer in 2020: Zero to Mastery" by Andrei Neagoie
+- Playing around with [ImageAI](https://github.com/OlafenwaMoses/ImageAI).
+- Learning with course "Complete Python Developer in 2020: Zero to Mastery" by Andrei Neagoie
